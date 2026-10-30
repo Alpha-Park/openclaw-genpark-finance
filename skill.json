@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-finance",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Finance - Benford's Law Chi-Square forensic audit and WACC Discounted Cash Flow solver with NPV profitability index.",
+  "tools": [
+    "audit_benfords_law",
+    "compute_wacc",
+    "calculate_dcf_npv"
+  ]
+}
